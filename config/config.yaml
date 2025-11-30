@@ -1,0 +1,6 @@
+random_seed: 42
+
+thresholds:
+  anomaly_roas_deviation: -1.5
+  high_roas: 3.0
+  min_impressions: 1000
